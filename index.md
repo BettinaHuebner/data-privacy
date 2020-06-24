@@ -1,6 +1,5 @@
 <head>
   <meta charset="utf-8">
-  <title>Cooking Master</title>
   <meta name="description" content="">
   <link rel="icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
